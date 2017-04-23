@@ -1,2 +1,6 @@
 language: node_js
 node_js: node
+deploy:
+  provide: heroku
+  api_key: 26a10d98-a398-4a42-ad6d-7be2d370f398
+  app: test-1-2-3
